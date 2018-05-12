@@ -1,0 +1,50 @@
+_repo: Hans-Andersen-s-Fairy-Tales.-First-Series_32571
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hart, Edna F.
+    gutenberg_agent_id: '35921'
+    url: http://www.gutenberg.org/2009/agents/35921
+covers:
+- cover_type: archival
+  image_path: 32571-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+  editor:
+    agent_name: Stickney, J. H. (Jenny H.)
+    aliases:
+    - Stickney, Jenny H.
+    - Lansing, Jenny H. Stickney
+    - Stickney, J.H.
+    birthdate: 1840
+    gutenberg_agent_id: '35920'
+    url: http://www.gutenberg.org/2009/agents/35920
+description: ''
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Danish -- Translations into English'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Fairy tales -- Denmark'
+tableOfContents: The fir tree -- Little Tuk -- The ugly duckling -- Little Ida's flowers
+  -- The steadfast tin soldier -- Little Thumbelina -- Sunshine stories -- The darning-needle
+  -- The little match girl -- The loving pair -- The leaping match -- The happy family
+  -- The greenies -- Ole-Luk-Oie, the dream god -- The money box -- Elder-tree Mother
+  -- The Snow Queen -- The roses and the sparrows -- The old house -- The conceited
+  apple branch.
+title: Hans Andersen's Fairy Tales. First Series
+url: http://www.gutenberg.org/ebooks/32571
